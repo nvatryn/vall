@@ -92,7 +92,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.github.com/nvatryn/vall/GM/"
+    REPO="https://raw.githubusercontent.com/nvatryn/vall/GM/"
 
 ####
 start=$(date +%s)
@@ -279,7 +279,7 @@ restart_system(){
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.github.com/nvatryn/vall/GM/Register"
+izinsc="https://raw.githubusercontent.com/nvatryn/vall/GM/Register"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
