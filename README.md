@@ -10,10 +10,9 @@ Masukkan perintah dibawah jika anda menggunakan OS Ubuntu Version 18 atau 20
 apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ```
 
-## INSTALL SCRIPT 
-Masukkan perintah dibawah untuk menginstall Autoscript Premium by Baimstore
+## INSTALL SCRIPT !!!!!
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Baimkuy/Autoscript/GM/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/nvatryn/vall/GM/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
 ```
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
