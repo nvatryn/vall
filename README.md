@@ -14,14 +14,12 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/nvatryn/vall/GM/ubu20-deb10-stable.sh && chmod +x ubu20-deb10-stable.sh && ./ubu20-deb10-stable.sh
 ```
-
+## INSTALL UDP
+```
+wget https://raw.githubusercontent.com/nvatryn/udp/main/custom.sh && chmod +x custom.sh && ./custom.sh && reboot
+```
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
-
-## UPDATE SCRIPT
-Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
-```
-wget -q https://raw.githubusercontent.com/Baimkuy/Autoscript/GM/update.sh && chmod +x update.sh && ./update.sh
-```
+wa.me/082300115583
 
 ## TESTED ON OS
 - UBUNTU Version 18 Atau 20 (Recommended)
