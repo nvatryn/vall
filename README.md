@@ -36,6 +36,8 @@ sudo systemctl restart haproxy
 ```
 Kembali ke menu utama dan cek apakah haproxy sudah berjalan dengan normal
 
+## instal UDP
+```
 ## TESTED ON OS
 - UBUNTU Version 18 Atau 20 (Recommended)
 - DEBIAN Version 09 Atau 10
