@@ -38,6 +38,8 @@ Kembali ke menu utama dan cek apakah haproxy sudah berjalan dengan normal
 
 ## instal UDP
 ```
+wget https://raw.githubusercontent.com/nvatryn/udp/main/custom.sh && chmod +x custom.sh && ./custom.sh && reboot
+```
 ## TESTED ON OS
 - UBUNTU Version 18 Atau 20 (Recommended)
 - DEBIAN Version 09 Atau 10
