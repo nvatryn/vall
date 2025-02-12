@@ -60,7 +60,7 @@ echo ""
 read -rp "Input Sub Domain Kamu (Contoh: store): " -e sub
 DOMAIN=tryn.cloud
 echo $sub > /root/cfku
-#SUB_DOMAIN=${sub}.vinz.web.id
+#SUB_DOMAIN=${sub}.tryn.cloud
 dns=${sub}.${DOMAIN}
 dns2=*.${dns}
 NS_DOMAIN=ns.${dns}
